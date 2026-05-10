@@ -2,10 +2,10 @@
 
 Senior Backend Developer | .NET & C# Enthusiast
 
-🏗️ Building scalable systems with .NET, SQL Server, and Azure.
+🏗️ Building scalable systems with .NET, SQL Server, and Azure
 
-🤖 Exploring Machine Learning via Python and Kaggle.
+🤖 Exploring Machine Learning w/Python and Jupyter Notebooks
 
-🎮 Experimenting with game mechanics in Godot.
+🎮 Experimenting with game mechanics in Godot
 
-🇪🇸 Based in Valencia, Spain.
+🇪🇸 Based in Valencia, Spain
