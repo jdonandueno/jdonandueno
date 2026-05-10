@@ -1,6 +1,6 @@
 ## Heya! 👋
 
-Senior Backend Developer | .NET & C# Pro
+Senior Backend Developer | .NET Pro
 
 🏗️ Building scalable systems with **.NET**, **SQL Server**, and **Azure**
 
