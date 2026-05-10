@@ -9,3 +9,5 @@ Senior Backend Developer | .NET & C# Enthusiast
 🎮 Experimenting with game mechanics in Godot
 
 🇪🇸 Based in Valencia, Spain
+
+*Always learning, usually building.*
