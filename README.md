@@ -1,12 +1,12 @@
 ## Heya! 👋
 
-Senior Backend Developer | .NET & C# Enthusiast
+Senior Backend Developer | .NET & C# Pro
 
-🏗️ Building scalable systems with .NET, SQL Server, and Azure
+🏗️ Building scalable systems with **.NET**, **SQL Server**, and **Azure**
 
-🤖 Exploring Machine Learning w/Python and Jupyter Notebooks
+🤖 Exploring Machine Learning w/**Python** and **Jupyter Notebooks**
 
-🎮 Experimenting with game mechanics in Godot
+🎮 Experimenting with **Godot**
 
 🇪🇸 Based in Valencia, Spain
 
